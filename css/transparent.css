@@ -11,5 +11,5 @@
 /* 侧边栏透明 */
 #aside-content .card-widget {
     /*background: var(--light_bg_color)*/
-    opacity: 0.5
+    opacity: 0.8
 }
